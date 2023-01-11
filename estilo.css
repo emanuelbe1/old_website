@@ -9,13 +9,16 @@ h3{
     margin: 5px 5px 5px 5px;
     padding: 5px 5px 5px 5px;
 }
+
 body{
     background-color: beige;
 }
+
 a{
     left: 50%;
     position: relative;
 }
+
 .primer{
     padding: 10px 10px 10px 10px;
     border: 1px solid #a9a76f;    
