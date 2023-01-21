@@ -17,9 +17,12 @@ body{
     background-color: beige;
 }
 
-a{
+.e_proyect{
     left: 50%;
     position: relative;
+}
+.articulo{
+    text-align: center;
 }
 
 .proyecto{
