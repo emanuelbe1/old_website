@@ -1,0 +1,13 @@
+*{
+    font-family: "C059"
+}
+body{
+    background-color:#ebe7df
+}
+h1, h2, h3, form{
+    text-align: center;
+}
+.subtitulo{
+    text-align: center;
+    font-size: 15px;
+}
