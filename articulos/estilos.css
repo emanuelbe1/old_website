@@ -7,6 +7,9 @@ body{
 h1, h2, h3, form{
     text-align: center;
 }
+.centrar{
+    text-align: center;
+}
 .subtitulo{
     text-align: center;
     font-size: 15px;
