@@ -14,3 +14,7 @@ h1, h2, h3, form{
     text-align: center;
     font-size: 15px;
 }
+.bordediv{
+    border-style: solid;
+    border-color: lightslategrey;
+}
