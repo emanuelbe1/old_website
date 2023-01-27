@@ -2,7 +2,7 @@
     font-family: 'Ubuntu', sans-serif;
 }
 h1{
-    color: darkslategray;
+    color: #2d4949;
     text-align: center;
     margin-bottom: 50px;
 }
@@ -14,7 +14,7 @@ h3{
 }
 
 body{
-    background-color: beige;
+    background-color: #9b99a1;
 }
 
 .e_proyect{
@@ -27,7 +27,7 @@ body{
 
 .proyecto{
     padding: 10px 10px 10px 10px;
-    border: 1px solid #a9a76f;    
-    background-color: wheat;
+    border: 1px solid #000000;    
+    background-color: #d1cfcb;
     margin-bottom: 30px;
 }
