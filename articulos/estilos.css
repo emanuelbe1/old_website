@@ -1,20 +1,24 @@
 *{
-    font-family: "C059"
+    font-family: "C059";
 }
 body{
     background-color:#ebe7df
 }
 h1, h2, h3, form{
     text-align: center;
+    font-size: 15pt
 }
 .centrar{
     text-align: center;
 }
 .subtitulo{
     text-align: center;
-    font-size: 15px;
+    font-size: 10.5pt;
 }
 .bordediv{
     border-style: solid;
     border-color: lightslategrey;
+}
+p, i, li{
+    font-size: 11pt
 }
