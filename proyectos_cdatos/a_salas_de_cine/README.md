@@ -63,4 +63,4 @@ El cuaderno de Jupyter requiere las siguientes dependencias:
 <li>Ejecutar las celdas del cuaderno (<em>combinación de teclas alt + enter</em>) en secuencia para obtener los resultados y las visualizaciones.</li>
 <br>
 <h3><b>Licencia</b></h3>
-<p>Este proyecto está bajo la licencia (<a href='https://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</a>. Esto significa que se puede compartir y adaptar libremente el contenido de este proyecto para fines no comerciales, siempre y cuando se de el crédito apropiado al autor y se proporcione un enlace a la licencia.</p>
+<p>Este proyecto está bajo la licencia <a href='https://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</a>. Esto significa que se puede compartir y adaptar libremente el contenido de este proyecto para fines no comerciales, siempre y cuando se de el crédito apropiado al autor y se proporcione un enlace a la licencia.</p>
