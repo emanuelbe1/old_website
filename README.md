@@ -13,3 +13,4 @@ Cada proyecto cuenta con: su titulo, una descripción, un recuento de las herram
   <li><a href='https://emanuelbe1.github.io/articulos/small_y_big_data.html'>Pensamiento matemático, small y big data</a></li> Creado: 30-01-2023<br><br>
   <li><a href = 'https://emanuelbe1.github.io/articulos/small_y_big_data.html'>Desafíos y ventajas de trabajar con big data</a></li> Creado: 31-01-2023<br><br>
 </ul>
+<hr>
