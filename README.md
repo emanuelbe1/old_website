@@ -3,7 +3,8 @@
 Cada proyecto cuenta con: su titulo, una descripción, un recuento de las herramientas usadas y un enlace al vinculo.</p>
 <hr>
 <ul><b><u>Proyectos</u></b><br>
-  <li>Curriculum Vitae en HTML: Proyecto final para el curso "Introducción a Front End", en Ticmas Academy.</li> Creado: 10-01-2022
+  <li><a href="https://github.com/emanuelbe1/proyectos_analisis_de_datos/tree/f758baf2c8b17573d8e7fdb691c42b71c93ed5ff/cines_en_Argentina">Análisis de las salas de cine en Argentina</a>: Investigación exhaustiva del panorama de las salas de cine en Argentina.</li> Creado: 29-05-2023
+  <li><a href="https://emanuelbe1.github.io/proyecto_final_integrador_front_end/curriculum_vitae.html">Curriculum Vitae en HTML</a>: Proyecto final para el curso "Introducción a Front End", en Ticmas Academy.</li> Creado: 10-01-2022
 </ul>
 <hr>
 <ul><u><b>Articulos y documentos</u></b><br>
